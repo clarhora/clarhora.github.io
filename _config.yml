@@ -7,15 +7,15 @@ url: "https://clarhora.github.io"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/clarhora"
 header-img: img/home-bg.png
 headercolor: "#FFFFFF"
 logo: https://cdn.dribbble.com/users/389810/screenshots/3974686/graphic3.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  clarhora
+project_repository: clarhora
+disqus_shortname: clarhora
 g-analytics: UA-75881392-1
 altmetric: true
 
