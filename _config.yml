@@ -1,6 +1,6 @@
 # Site settings
-title: Clara
-description: "An Integrated Scientific Blogging Template"
+title: Product Designer's blog
+description: "Work with IoT Platform Startup⌚️, Commerce Platform👗 and Freelancing.👩‍💻"
 url: "https://clarhora.github.io"
 
 
@@ -8,9 +8,10 @@ url: "https://clarhora.github.io"
 
 # Secondary Parameters
 baseurl: ""
-header-img: img/home-bg.jpg
-headercolor: "#cccccc"
-logo: https://cdn.dribbble.com/users/389810/screenshots/3974686/graphic3.png
+header-img: 
+bg: "#cccccc"
+headercolor: "#000000"
+logo: 
 
 # Tertiary Parameters
 github_username:  clarhora

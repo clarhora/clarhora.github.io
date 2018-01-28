@@ -5,7 +5,7 @@
   color: #FFFFFF;
 }
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Times New Roman', serif;
   font-size: 20px;
   color: #404040;
 }
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
 }
 a {
   color: #404040;
@@ -45,7 +45,7 @@ blockquote {
   font-style: italic;
 }
 hr.small {
-  max-width: 100px;
+  /* max-width: 100px; */
   margin: 15px auto;
   border-width: 4px;
   border-color: #FFFFFF;
@@ -74,7 +74,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: #000000;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -82,7 +82,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #000000;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -138,8 +138,8 @@ hr.small {
   }
 }
 .intro-header {
-  background-color: #808080;
-  background: no-repeat center center;
+  background-color: #F1F3F5;
+  /* background: no-repeat center center; */ 
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -156,12 +156,12 @@ hr.small {
 }
 .intro-header .site-heading,
 .intro-header .page-heading {
-  text-align: center;
+  text-align: left;
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  /* font-size: 50px; */
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -173,8 +173,8 @@ hr.small {
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
-  .intro-header .site-heading h1,
-  .intro-header .page-heading h1 {
+  .intro-header .site-heading h2,
+  .intro-header .page-heading h2 {
     font-size: 80px;
   }
 }
@@ -206,7 +206,7 @@ hr.small {
     font-size: 55px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
+    font-size: 16px;
   }
 }
 .post-preview > a {
@@ -224,7 +224,9 @@ hr.small {
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
+  font-size: 16px;
   font-weight: 300;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
@@ -244,7 +246,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+    font-size: 24px;
   }
 }
 .section-heading {
