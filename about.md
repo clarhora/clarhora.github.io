@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Hello, world!.🦄"
-header-img: "img/home-bg.jpg"
+header-img: "img/home-bg.png"
 ---
 저는 5년간 IT 스타트업에서 UX와 UI 디자이너로 일해 왔습니다. 취미는 드로잉이며, 아름답고 합리적인 제품에 관심이 있습니다.
 
