@@ -2,14 +2,13 @@
 title: Digital Designer's blog
 description: "Designer achieves business goals based on business/marketing understanding.👩‍💻"
 url: "https://clarhora.github.io"
-header-img: "img/home-bg.png"
 
 
 
 # Secondary Parameters
 baseurl: ""
-header-img: 
-bg: "#cccccc"
+header-img: "img/home-bg.png"
+bg: "#ffffff"
 headercolor: "#000000"
 logo: 
 
@@ -17,7 +16,7 @@ logo:
 github_username:  clarhora
 project_repository: clarhora
 disqus_shortname: clarhora
-g-analytics: UA-75881392-1
+g-analytics: 
 altmetric: true
 
 # Build settings
